@@ -574,7 +574,14 @@
       
         <li class="md-nav__item">
   <a href="#2" class="md-nav__link">
-    2.启动
+    2.复制文件
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3" class="md-nav__link">
+    3.启动
   </a>
   
 </li>
@@ -942,7 +949,14 @@
       
         <li class="md-nav__item">
   <a href="#2" class="md-nav__link">
-    2.启动
+    2.复制文件
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3" class="md-nav__link">
+    3.启动
   </a>
   
 </li>
@@ -969,14 +983,23 @@
 <h2 id="1">1.下载<a class="headerlink" href="#1" title="Permanent link">&para;</a></h2>
 <h3 id="_1">通过下载页面选择下载<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h3>
 <p>下载相关文件
-<div class="highlight"><pre><span></span><code>wget  https://gitee.com/wy-soft/wyproject.git
+<div class="highlight"><pre><span></span><code># 方式1 
+git clone  https://gitee.com/wy-soft/wyproject.git
+
+# 方式2
+wget https://gitee.com/wy-soft/wyproject/repository/archive/master.zip
+unzip master.zip
 </code></pre></div></p>
-<h2 id="2">2.启动<a class="headerlink" href="#2" title="Permanent link">&para;</a></h2>
+<h2 id="2">2.复制文件<a class="headerlink" href="#2" title="Permanent link">&para;</a></h2>
+<p>将install下的compose文件夹复制到对应目录，以下操作均以compose文件夹为操作目录</p>
+<h2 id="3">3.启动<a class="headerlink" href="#3" title="Permanent link">&para;</a></h2>
+<p>3.1
 <div class="highlight"><pre><span></span><code># 设置程序运行权限
-sudo  chmod +x conf/app/ctl-tools.sh  conf/app/start.sh  conf/app/wuyu-cost.jar 
-</code></pre></div>
-<p>启动
-<div class="highlight"><pre><span></span><code># 方式1.直接启动
+# root权限下不需要加sudo
+sudo  chmod +x conf/app/*
+</code></pre></div></p>
+<p>3.2  启动
+<div class="highlight"><pre><span></span><code># 方式1.前台启动
 
 docker compose up
 
