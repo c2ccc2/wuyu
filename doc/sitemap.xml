@@ -2,132 +2,137 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://www.wuyu-soft.com/doc/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/about/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/demo/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/docs/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/down/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/cost/front-compile/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/cost/wycost-customization/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/cost/wycost-demo/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/cost/wycost-deploy/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/cost/wycost-downloads/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/cost/wycost-feature/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/cost/wycost-install-docker-compose/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/cost/wycost-install/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/cost/wycost-introduction/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/cost/wycost-manual/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://www.wuyu-soft.com/doc/cost/wycost-patch/</loc>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/cost/wycost-swagger/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/cost/wycost-upgrade/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/mockup/01.wymockup-introduction/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/mockup/02.wymockup-feature/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/mockup/03.wymockup-upgrade/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/mockup/04.wymockup-downloads/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/mockup/05.wymockup-install/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/mockup/06.wymockup-manual/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/mockup/07.wymockup-deploy/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/mockup/08.wymockup-customization/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.wuyu-soft.com/doc/mockup/10.wymockup-demo/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
