@@ -61,6 +61,9 @@
     
     
     <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue-grey" data-md-color-accent="pink">
+
+      本站已经迁移到 https://doc.wuyusoft.com  <hr>
+      将于<text id=time>5</text>秒后自动跳转
   
     
     
@@ -1040,4 +1043,31 @@
       
     
   </body>
+
+  <script>
+    function delayURL(url) {
+
+    var delay = document.getElementById("time").innerHTML;//取到id="time"的对象，.innerHTML取到对象的值
+
+    //alert(delay);
+
+    if(delay > 0) {
+
+delay--;
+
+document.getElementById("time").innerHTML = delay;
+
+} else {
+
+    window.top.location.href = url;//跳转到URL
+
+        }
+
+setTimeout("delayURL('" + url + "')", 1000);    //delayURL() 就是每间隔1000毫秒 调用delayURL(url);
+
+}
+
+ delayURL("https://doc.wuyusoft.com")
+
+</script>
 </html>

@@ -15,9 +15,42 @@
 
 <body><noscript><strong>We're sorry but wuyuwebsite doesn't work properly without JavaScript enabled. Please enable it
             to continue.</strong></noscript>
-    <div id="app"></div>
+
+            本站已经迁移到 https://www.wuyusoft.com  <hr>
+            将于<span id=time>3</span>秒后自动跳转
+
+    <!-- <div id="app"></div> -->
     <script src="assets/js/chunk-vendors.eaa036e7.js"></script>
     <script src="assets/js/app.528a0f3b.js"></script>
+
+    <script>
+        function delayURL(url) {
+
+        var delay = document.getElementById("time").innerHTML;//取到id="time"的对象，.innerHTML取到对象的值
+
+        //alert(delay);
+
+        if(delay > 0) {
+
+delay--;
+
+document.getElementById("time").innerHTML = delay;
+
+} else {
+
+        window.top.location.href = url;//跳转到URL
+
+            }
+
+    setTimeout("delayURL('" + url + "')", 1000);    //delayURL() 就是每间隔1000毫秒 调用delayURL(url);
+
+}
+
+     delayURL("http://www.wuyusoft.com")
+
+    </script>
 </body>
+
+
 
 </html>
